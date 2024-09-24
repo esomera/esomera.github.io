@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esomera.github.io/sitemap.html.gz
+Sitemap: https://esomera.github.io/app/sitemap.html.gz
+Sitemap: https://esomera.github.io/assets/sitemap.html.gz
+Sitemap: https://esomera.github.io/css/sitemap.html.gz
+Sitemap: https://esomera.github.io/data/sitemap.html.gz
+Sitemap: https://esomera.github.io/includes/sitemap.html.gz
+Sitemap: https://esomera.github.io/item/sitemap.html.gz
+Sitemap: https://esomera.github.io/src/sitemap.html.gz
